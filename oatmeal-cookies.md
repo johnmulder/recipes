@@ -2,26 +2,26 @@ Oatmeal Cookies
 ===============
 
 ### Ingredients
-- 1 cup butter
-- 1 cup brown sugar  
-- 1/2 cup white sugar
-- 2 eggs
-- 1 tablespoon vanilla
-- 1 1/2 cups flour
-- 1 teaspoon baking soda
-- 4 teaspoon cinnamon
-- 1 teaspoon ground cloves
-- 1 teaspoon salt
-- 3 cups rolled oats
-- 2 cups raisins
+    1 cup butter
+    1 cup brown sugar  
+    1/2 cup white sugar
+    2 eggs
+    1 tablespoon vanilla
+    1 1/2 cups flour
+    1 teaspoon baking soda
+    4 teaspoon cinnamon
+    1 teaspoon ground cloves
+    1 teaspoon salt
+    3 cups rolled oats
+    2 cups raisins
 
 ### Implements
-- microwavable bowl of at least 2 quarts  
-- microwave  
-- fork  
-- spoon (or ice-cream scoop)  
-- cookie sheet
-- Oven
+    microwavable bowl of at least 2 quarts  
+    microwave  
+    fork  
+    spoon (or ice-cream scoop)  
+    cookie sheet
+    Oven
 
 ### Directions
 1. Put butter in bowl and microwave for 1 minute
