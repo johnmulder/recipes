@@ -16,3 +16,4 @@ Spatchcock Turkey
 
 ### Note
 - Internal temperature at the the thigh should be 165º F
+- https://www.youtube.com/watch?v=hZxWF0VyK60
