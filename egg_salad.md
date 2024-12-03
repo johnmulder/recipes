@@ -2,6 +2,7 @@ Egg Salad
 ---------
 
 ### Ingredients
+
     6 Eggs
     45 gr Onion
     135 gr Mustard
@@ -13,6 +14,7 @@ Egg Salad
     1/2 tsp Worchestershire Sauce
 
 ### Directions
+
 1. Boil and Slice Eggs
 2. Chop Onion
 3. Combine Ingredients

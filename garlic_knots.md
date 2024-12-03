@@ -13,6 +13,7 @@ Garlic Parmesan Knots
     1 large egg
 
 ### Directions
+
 1. Preheat oven to 350F
 2. Line baking mat with parchment paper
 3. In a bowl, combine: almond flour, coconut flour, baking powder, garlic

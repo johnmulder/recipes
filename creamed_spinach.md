@@ -12,6 +12,7 @@ Creamed Spinach
     2 cups heavy cream
 
 ### Directions
+
 1. Microwave frozen spinach on high for 6 minutes
 2. Melt butter in a medium sauté pan over medium-high
 3. Sauté onions and garlic for 2 minutes

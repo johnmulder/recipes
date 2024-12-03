@@ -13,6 +13,7 @@ Sautéed Red Cabbage
     Salt and pepper
 
 ### Directions
+
 1. Heat a skillet over medium high heat
 2. Add oil and onion and sauté for 2 minutes
 3. Add cabbage and turn in pan, 3 to 5 minutes
