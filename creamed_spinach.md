@@ -1,7 +1,6 @@
-Creamed Spinach
----------------
+# Creamed Spinach
 
-### Ingredients
+## Ingredients
 
     4 tablespoons butter
     1 onion, minced
@@ -11,12 +10,16 @@ Creamed Spinach
     1/4 teaspoon freshly ground nutmeg
     2 cups heavy cream
 
-### Directions
+## Tools
 
-1. Microwave frozen spinach on high for 6 minutes
-2. Melt butter in a medium sauté pan over medium-high
-3. Sauté onions and garlic for 2 minutes
-4. Add the chopped spinach to the sauté pan
-5. Let the spinach dry out, 3-5 minutes
-6. Add the salt, pepper, nutmeg, and heavy cream
-7. Cook until the mixture is no longer a liquid, stirring occasionally
+- Instant Pot
+
+## Directions
+
+1. Set the Instant Pot to "Sauté" mode and melt the butter.
+2. Sauté minced onion for 2 minutes until softened.
+3. Add frozen chopped spinach directly to the pot and sauté for 3-5 minutes to let excess water evaporate.
+4. Stir in garlic salt, salt, pepper, nutmeg, and heavy cream.
+5. Cancel "Sauté" mode and set the Instant Pot to "Pressure Cook" (High Pressure) for 2 minutes.
+6. Quick release the pressure and open the lid.
+7. Stir the mixture well and set to "Sauté" mode again if needed to reduce any remaining liquid. Serve warm.

@@ -2,25 +2,21 @@
 
 ## Ingredients
 
-- 4 medium zucchinis, sliced
-- 1 cup corn
-- 1 cup tomatoes, diced
-- 1 onion, diced
-- 2 garlic cloves, minced
-- 1 cup shredded cheese (cheddar or Monterey Jack)
-- 2 tbsp olive oil
-- 1 tbsp chili powder
-- Salt and pepper to taste
+    4 medium zucchinis, sliced
+    1 cup corn
+    1 cup tomatoes, diced
+    1 onion, diced
+    2 garlic cloves, minced
+    1 cup shredded cheese (cheddar or Monterey Jack)
+    2 tbsp olive oil
+    1 tbsp chili powder
+    Salt and pepper to taste
+
+## Tools
+
+- Instant Pot
 
 ## Steps
-
-1. Heat olive oil in a large skillet over medium heat.
-2. Sauté onion and garlic until fragrant, about 2 minutes.
-3. Add zucchini and cook until slightly softened, about 5 minutes.
-4. Stir in corn, tomatoes, chili powder, salt, and pepper. Cook for another 5 minutes.
-5. Sprinkle cheese over the mixture, cover, and let it melt, about 2 minutes.
-
-## Steps (Instant Pot Version)
 
 1. Set the Instant Pot to "Sauté" mode and heat olive oil.
 2. Sauté onion and garlic until fragrant, about 2 minutes.
