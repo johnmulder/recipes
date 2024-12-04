@@ -1,19 +1,34 @@
-Spatchcock Turkey
------------------
+# Spatchcock Turkey
 
-### Directions
-1. Turn the turkey breast-side down
-2. Use kitchen shears to cut along each side of the backbone
-3. Cut through the cartilage at the tip of the breastbone between the wings
-4. Turn the turkey over
-5. Press down firmly on both sides of the breastbone (it should makes a cracking sound)
-6. Tuck the wingtips under the breast
-7. Place the turkey on a rack on a sheet pan
-8. Pat the skin dry
-9. Rub skin with oil, salt, pepper, and herbs
-10. Roast at 350º F for 1 hour, 30 minutes
-11. Increase heat to 400º F and roast for an additional 15 minutes to crisp skin
+## Ingredients
 
-### Note
-- Internal temperature at the the thigh should be 165º F
-- https://www.youtube.com/watch?v=hZxWF0VyK60
+    1 whole turkey  
+    Olive oil  
+    Salt  
+    Pepper  
+    Herbs (such as rosemary, thyme, or sage)  
+
+## Tools
+
+    Poultry shears  
+    Sheet pan  
+    Wire rack  
+    Paper towels  
+
+## Steps
+
+1. Place the turkey breast-side down on a cutting board.  
+2. Use Poultry shears to cut along each side of the backbone and remove it.  
+3. Cut through the cartilage at the tip of the breastbone between the wings.  
+4. Turn the turkey over and press down firmly on both sides of the breastbone until it cracks.  
+5. Tuck the wingtips under the breast to secure them.  
+6. Place the turkey on a wire rack set over a sheet pan.  
+7. Pat the turkey skin dry with paper towels.  
+8. Rub the skin with olive oil, salt, pepper, and herbs of your choice.  
+9. Roast in a preheated oven at 350°F for 1 hour and 30 minutes.  
+10. Increase the oven temperature to 400°F and roast for an additional 15 minutes to crisp the skin.  
+
+## Notes
+
+- The internal temperature at the thickest part of the thigh should reach 165°F before serving.  
+- For additional guidance, check this [video tutorial](https://www.youtube.com/watch?v=hZxWF0VyK60).  
