@@ -11,7 +11,7 @@
     1/2 cup white sugar
     2 tablespoons white wine vinegar
 
-## Directions
+## Steps
 
 1. Cook bacon, allow it to cool, and crumble it
 2. Cut the broccoli into bite-size pieces and cut the onion into thin bite-size slices

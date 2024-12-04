@@ -1,7 +1,6 @@
-Egg Salad
----------
+# Egg Salad
 
-### Ingredients
+## Ingredients
 
     6 Eggs
     45 gr Onion
@@ -13,7 +12,7 @@ Egg Salad
     1/4 tsp Vinegar
     1/2 tsp Worchestershire Sauce
 
-### Directions
+## Steps
 
 1. Boil and Slice Eggs
 2. Chop Onion

@@ -14,7 +14,7 @@
 
 - Instant Pot
 
-## Directions
+## Steps
 
 1. Set the Instant Pot to "Sauté" mode and melt the butter.
 2. Sauté minced onion for 2 minutes until softened.

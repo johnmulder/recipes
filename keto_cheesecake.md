@@ -1,37 +1,55 @@
-Keto Cheesecake
----------------
+# Keto Cheesecake
 
-### Ingredients
-- 2 bricks of Philadelphia cream cheese 
-- lemon (fresh is better, but do what you gotta) - 1 to 2 TBS
-- vanilla - 1 tsp
-- 3 eggs - get them out of the fridge with the cream cheese to come to room temp
-- 1 1/3 C. allulose sugar substitute 
-- 2 cups of sour cream	
+## Ingredients
 
-8 ramekins instead of a springform or cake pan.
+    2 bricks of Philadelphia cream cheese
+    1 to 2 TBS lemon
+    1 tsp vanilla
+    3 eggs, room temperature
+    1 1/3 C. allulose sugar substitute
+    2 cups of sour cream
 
+## Tools
 
-### Instructions
+- Mixer
+- 8 ramekins
 
-No crust, but a nut crust would do quite well I think, the Internet knows about those.
+## Steps
 
-Get the 2 bricks of cream cheese out of the fridge about 4 hours ahead of time (or overnight). Preheat the oven to 250. (You may have to experiment with the oven - ours is 20 years old and we are at high altitude).
+1. **Prepare for Baking**:  
+   - Preheat the oven to 250°F (adjust for your oven and altitude if needed).  
+   - If desired, prepare a nut crust or use ramekins without crust.
 
-Stir the sour cream with the mixer on low for 10-15 seconds
+2. **Soften Cream Cheese**:  
+   - Remove cream cheese from the fridge about 4 hours ahead of time (or overnight).
 
-Add the cream cheese and mix on a little higher speed for couple of minutes.
+3. **Mix Sour Cream**:  
+   - Stir the sour cream with a mixer on low for 10–15 seconds.
 
-It doesn’t get real smooth.  Who cares.
-In a different bowl (or one of those pyrex glass microwave measuring cups) mix the 3 eggs, vanilla, lemon, allulose
+4. **Add Cream Cheese**:  
+   - Add cream cheese to the mixer and blend at a slightly higher speed for about 2 minutes. The mixture won’t be completely smooth—this is fine.
 
-Leave the mixer on medium-low and pour in the egg mixture a little bit at a time.  Let the previous egg mix blend in before putting in more. Try to mix the batter for the shortest time you can to get the job done.
+5. **Prepare Egg Mixture**:  
+   - In a separate bowl or microwave-safe measuring cup, mix eggs, vanilla, lemon, and allulose until combined.
 
-Put a baking sheet (with sides) on the oven rack and heat up a kettle of water to pour in it later.
-Drop 3 heaping tablespoons of batter into each ramekin. Don’t fill to the top.
-Put the ramekins into the baking sheet and pour the kettle into the baking sheet between the ramekins.  The water shouldn’t go more than half-way up the ramekins.
+6. **Incorporate Eggs**:  
+   - With the mixer on medium-low, slowly pour the egg mixture into the cream cheese mixture a little at a time. Allow each addition to blend before adding more. Mix just enough to combine ingredients.
 
-Bake at 250 for 50 minutes, turn the oven off and leave them in there for another hour.
-They say you should let it cool completely before it goes in the fridge so you don’t get condensation. We had good luck putting it in right after the hour of oven-off sitting.
+7. **Prepare Baking Setup**:  
+   - Place a baking sheet with sides on the oven rack. Heat a kettle of water for later.  
 
-The tops don’t brown. The batter has stopped jiggling after the 50 minutes is up.
+8. **Fill Ramekins**:  
+   - Drop 3 heaping tablespoons of batter into each ramekin, leaving space at the top.
+
+9. **Create Water Bath**:  
+   - Place the ramekins in the baking sheet and pour hot water into the sheet, filling it to about halfway up the sides of the ramekins.
+
+10. **Bake and Cool**:  
+    - Bake at 250°F for 50 minutes.  
+    - Turn off the oven and leave the ramekins inside for an additional hour.  
+
+11. **Refrigerate**:  
+    - Let the ramekins cool completely before refrigerating to avoid condensation, or refrigerate immediately after the hour-long resting period if needed.
+
+12. **Check Doneness**:  
+    - The tops will not brown, and the batter should no longer jiggle after baking.

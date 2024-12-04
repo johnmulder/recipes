@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-  4 egg yolks
-  3/4 cup cream
-  2/3 cup almond milk, vanilla flavor
-  1 tsp vanilla extract
-  1/8 cup erythritol
-  1–2 tbsp xylitol
-  1/4 tsp salt
-  1/2 packet gelatin
-  1/3 cup sour cream
-  2 tbsp butter
-  5 drops liquid sucralose
+    4 egg yolks
+    3/4 cup cream
+    2/3 cup almond milk, vanilla flavor
+    1 tsp vanilla extract
+    1/8 cup erythritol
+    1–2 tbsp xylitol
+    1/4 tsp salt
+    1/2 packet gelatin
+    1/3 cup sour cream
+    2 tbsp butter
+    5 drops liquid sucralose
 
-## Steps (Instant Pot Version)
+## Steps
 
 1. Mix erythritol, xylitol, and salt in a small bowl.
 2. Separate egg yolks and whisk with the sweetener mixture until smooth. Continue whisking occasionally to prevent clumping.

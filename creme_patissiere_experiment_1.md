@@ -14,7 +14,7 @@
     2 tbsp butter
     6 drops liquid sweetener (e.g., sucralose)
 
-## Steps (Instant Pot Version)
+## Steps
 
 1. Mix erythritol, xylitol, and salt in a small bowl.
 2. Separate egg yolks and whisk with the sweetener mixture until smooth. Continue whisking occasionally to prevent clumping.

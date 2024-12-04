@@ -1,7 +1,6 @@
-Garlic Parmesan Knots
----------------------
+# Garlic Knots
 
-### Ingredients
+## Ingredients
 
     1/2 cup almond flour
     1/4 cup coconut flour
@@ -12,7 +11,7 @@ Garlic Parmesan Knots
     5 tbsp butter, melted
     1 large egg
 
-### Directions
+## Steps
 
 1. Preheat oven to 350F
 2. Line baking mat with parchment paper
